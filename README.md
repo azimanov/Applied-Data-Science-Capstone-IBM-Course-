@@ -1,2 +1,1 @@
-# Applied-Data-Science-Capstone-IBM-Course-
-This repository is dedicated to a Applied Data Science Capstone project in IBM Professional Certificate Course
+This repository is dedicated to SpaceX rocket launch descrtiptive and predictive analysis. In the presentation you can find the insights about the Launch Success Rate, Launch Sites, Orbits, Rocket Models, Payload, etc.
